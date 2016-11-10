@@ -1,0 +1,1 @@
+{"version":3,"sources":["lib.js","main.js"],"names":["console","log","x"],"mappings":"AAAA;QAAQ,IAAI,ACAZ,OAAI,QAAI,AAER,UAAQ,IAAI","file":"bundle.js","sourcesContent":["console.log('hoi');","let x = 5;\n\nconsole.log(x);"]}

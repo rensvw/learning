@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/main.js"],"names":["x","console","log"],"mappings":";;AAAA,IAAIA,IAAI,CAAR;;AAEAC,QAAQC,GAAR,CAAYF,CAAZ","file":"main.js","sourcesContent":["let x = 5;\n\nconsole.log(x);"]}
