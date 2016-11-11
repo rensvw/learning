@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../source/javascript/lib.js"],"names":["console","log"],"mappings":";;AAAAA,QAAQC,GAAR,CAAY,KAAZ","file":"lib.js","sourcesContent":["console.log('hoi');"]}

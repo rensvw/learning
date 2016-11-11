@@ -10,7 +10,7 @@ var gulp   = require('gulp'),
     clean = require('gulp-clean'),
     uglify = require('gulp-uglify'),
     concat = require('gulp-concat'),
-    filesize = require('gulp-filesize')
+    filesize = require('gulp-filesize'),
     plumber = require('gulp-plumber');
 
 
